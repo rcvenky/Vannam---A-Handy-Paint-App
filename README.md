@@ -1,6 +1,6 @@
-# vannam
+# Vannam
 
-A new Flutter project.
+A Handy Paint Application Utility for Android.
 
 ## Getting Started
 
